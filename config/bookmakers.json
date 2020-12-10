@@ -1,0 +1,81 @@
+{
+  "bet365": {
+    "football": {
+      "england:premier-league": "https://www.bet365.com/#/AC/B1/C1/D13/E51761579/F2/",
+      "england:championship": "https://www.bet365.com/#/AC/B1/C1/D13/E51791071/F2/"
+    }
+  },
+  "betfred": {
+    "football": {
+      "england:premier-league": "https://www.betfred.com/sports/market-group/15848624.2",
+      "england:championship": "https://www.betfred.com/sports/market-group/16254198.2",
+      "england:league-one": "https://www.betfred.com/sports/market-group/16254199.2",
+      "england:league-two": "https://www.betfred.com/sports/market-group/16254200.2"
+    }
+  },
+  "bet_regal": {
+    "football": {
+      "england:premier-league": "https://sport.betregal.com/en/sports/football/england-premier-league/"
+    }
+  },
+  "betway": {
+    "football": {
+      "england:premier-league": "https://sports.betway.com/en/sports/grp/soccer/england/premier-league",
+      "england:championship": "https://sports.betway.com/en/sports/grp/soccer/england/championship",
+      "england:league-one": "https://sports.betway.com/en/sports/grp/soccer/england/league-one",
+      "england:league-two": "https://sports.betway.com/en/sports/grp/soccer/england/league-two"
+    }
+  },
+  "coral": {
+    "football": {
+      "england:premier-league": "https://sports.coral.co.uk/competitions/football/football-england/premier-league",
+      "england:championship": "https://sports.coral.co.uk/competitions/football/football-england/championship",
+      "england:league-one": "https://sports.coral.co.uk/competitions/football/football-england/league-one",
+      "england:league-two": "https://sports.coral.co.uk/competitions/football/football-england/league-two"
+    }
+  },
+  "ladbrokes": {
+    "football": {
+      "england:premier-league": "https://sports.ladbrokes.com/competitions/football/english/premier-league",
+      "england:championship": "https://sports.ladbrokes.com/competitions/football/english/championship",
+      "england:league-one": "https://sports.ladbrokes.com/competitions/football/english/league-one",
+      "england:league-two": "https://sports.ladbrokes.com/competitions/football/english/league-two"
+    }
+  },
+  "mr_green": {
+    "football": {
+      "england:premier-league": "https://sport.mrgreen.com/en-GB/filter/football/england/premier_league",
+      "england:championship": "https://sport.mrgreen.com/en-GB/filter/football/england/the_championship"
+    }
+  },
+  "novibet": {
+    "football": {
+      "england:premier-league": "https://www.novibet.co.uk/sports/popular/3016282",
+      "england:championship": "https://www.novibet.co.uk/sports/popular/1947631"
+    }
+  },
+  "paddy_power": {
+    "football": {
+      "england:premier-league": "https://www.paddypower.com/football/english-premier-league",
+      "england:championship": "https://www.paddypower.com/football/english-championship",
+      "england:league-one": "https://www.paddypower.com/football/english-league-1",
+      "england:league-two": "https://www.paddypower.com/football/english-league-2"
+    }
+  },
+  "unibet": {
+    "football": {
+      "england:premier-league": "https://www.unibet.co.uk/betting/sports/filter/football/england/premier_league/matches",
+      "england:championship": "https://www.unibet.co.uk/betting/sports/filter/football/england/the_championship/matches",
+      "england:league-one": "https://www.unibet.co.uk/betting/sports/filter/football/england/league_one/matches",
+      "england:league-two": "https://www.unibet.co.uk/betting/sports/filter/football/england/league_two/matches"
+    }
+  },
+  "william_hill": {
+    "football": {
+      "england:premier-league": "https://sports.williamhill.com/betting/en-gb/football/competitions/OB_TY295/English-Premier-League/matches/OB_MGMB/Match-Betting",
+      "england:championship": "https://sports.williamhill.com/betting/en-gb/football/competitions/OB_TY292/English-Championship/matches/OB_MGMB/Match-Betting",
+      "england:league-one": "https://sports.williamhill.com/betting/en-gb/football/competitions/OB_TY293/English-League-1/matches/OB_MGMB/Match-Betting",
+      "england:league-two": "https://sports.williamhill.com/betting/en-gb/football/competitions/OB_TY294/English-League-2/matches/OB_MGMB/Match-Betting"
+    }
+  }
+}
